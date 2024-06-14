@@ -22,3 +22,6 @@ https://colab.research.google.com/drive/1B0ZCr6WBwhCJJluE-uePL0BYwZ0j-ec6?usp=sh
 * use bert-finetuned-ner
 
   find and clear name in sentence
+
+
+#### All of this model are loaded from https://huggingface.co/
