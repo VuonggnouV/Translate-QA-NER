@@ -8,11 +8,15 @@ Arabic (ar_AR), Czech (cs_CZ), German (de_DE), English (en_XX), Spanish (es_XX),
 
 # Question Answering
 https://colab.research.google.com/drive/1374mCJjkWPUddcRNpQxK82Hgqu49cLtY?usp=sharing
+
 use blip-vqa-base
+
 answer about a picture
 
 
 # NER 
 https://colab.research.google.com/drive/1B0ZCr6WBwhCJJluE-uePL0BYwZ0j-ec6?usp=sharing
+
 use bert-finetuned-ner
+
 find and clear name in sentence
